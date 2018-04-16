@@ -1,0 +1,27 @@
+{
+  "name": "fun_fun_function",
+  "version": "1.0.0",
+  "description": "my sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielriodejaneiro/expert-computing-machine.git"
+  },
+  "keywords": [
+    "javascript",
+    "quokka",
+    "typescript"
+  ],
+  "author": "Daniel Santos <daniel@brasileiro.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielriodejaneiro/expert-computing-machine/issues"
+  },
+  "homepage": "https://github.com/danielriodejaneiro/expert-computing-machine#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
